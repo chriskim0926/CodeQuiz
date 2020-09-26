@@ -7,3 +7,27 @@ h1{
 #start-quiz-botton{
     margin-top: 20px;
 }
+
+.answer-button-group{
+    margin-left: 50px;
+    
+}
+#answer1{
+    background: purple;
+    border-color: purple;
+    margin-bottom: 5px;
+}
+#answer2{
+    background: purple;
+    border-color: purple;
+    margin-bottom: 5px;
+}
+#answer3{
+    background: purple;
+    border-color: purple;
+    margin-bottom: 5px;
+}
+#answer4{
+    background: purple;
+    border-color: purple;
+}
